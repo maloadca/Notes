@@ -4,3 +4,5 @@ https://goutamdascrm.wordpress.com/2018/12/24/restrict-advanced-find-entity-reco
 https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/quick-start-org-service-console-app
 
 https://dev.azure.com/
+
+#https://github.com/dat-019/Dynamics-365-Workflow-Tools
