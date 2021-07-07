@@ -6,3 +6,5 @@ https://docs.microsoft.com/en-us/powerapps/developer/data-platform/org-service/q
 https://dev.azure.com/
 
 #https://github.com/dat-019/Dynamics-365-Workflow-Tools
+
+#trantri@devs365testing.onmicrosoft.com  / Maloadca159*A
