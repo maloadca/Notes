@@ -9,3 +9,5 @@ https://dev.azure.com/
 
 #trantri@devs365testing.onmicrosoft.com  / Maloadca159*A
 # https://drive.google.com/file/d/176JbaBoj-FthDibI6o4OBhEhCPXGi23q/view?usp=sharing
+
+https://eax360.com/get-the-business-unit-name-of-the-logged-in-user/
