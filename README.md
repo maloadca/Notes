@@ -11,3 +11,6 @@ https://dev.azure.com/
 # https://drive.google.com/file/d/176JbaBoj-FthDibI6o4OBhEhCPXGi23q/view?usp=sharing
 
 https://eax360.com/get-the-business-unit-name-of-the-logged-in-user/
+
+ https://d365fortesting.crm5.dynamics.com/
+devtri1@d365fortesting.onmicrosoft.com
