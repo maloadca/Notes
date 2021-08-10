@@ -16,3 +16,5 @@ https://eax360.com/get-the-business-unit-name-of-the-logged-in-user/
 devtri1@d365fortesting.onmicrosoft.com
 
 #AuthType=OAuth;Url= ;AppId=XXCCCCXXXXd27107e4-bc41-XXXXXX4e1f-b3be-7ab20cd8e2cdSSS;RedirectUri=XXXXXVVVhttps://login.microsoftonline.com/common/oauth2/nativeclient
+
+https://www.dropbox.com/s/06vopu307xo15lw/SyncData.zip?dl=0
