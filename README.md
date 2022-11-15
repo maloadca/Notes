@@ -26,3 +26,9 @@ https://nishantrana.me/2021/07/13/how-to-use-http-action-to-call-dataverse-dynam
 iocerp.database.windows.net
 
 #Custom Ribbon Dynamics 365 with Power FX:  https://jukkaniiranen.com/2021/10/reopen-tasks-with-power-fx-custom-command-bar-button/
+
+nicehash: Mal@adca159*A
+
+Binance: TriRio159*A
+
+MECX: Maloadca59*A
